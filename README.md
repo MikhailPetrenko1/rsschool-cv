@@ -1,1 +1,1 @@
-https://mikhailpetrenko1.github.io/rsschool-cv/cv
+https://github.com/mikhailpetrenko1/rsschool-cv/blob/gh-pages/cv.md
